@@ -59,7 +59,7 @@ I specialize in **API development, database design, caching, and cloud deploymen
 - 🌱 Always learning and improving backend systems
 
 (Optional)
-- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/tkarthick28/)
+- LinkedIn: [https://www.linkedin.com/in/tkarthick28](https://www.linkedin.com/in/tkarthick28/)
 - Portfolio: https://your-website.com
 
 ---
